@@ -17,10 +17,7 @@ html {
  */
 
 body {
-  background-image: url(http://uploads.striking.ly/page/images/backgrounds/bg5.jpg);
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
+  margin: 0;
 }
 
 /* HTML5 display definitions
